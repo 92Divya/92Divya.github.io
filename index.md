@@ -1,17 +1,17 @@
 ---
 layout: default
-title: Divya's Data Science Portfolio
+title: Data Science Portfolio
 ---
 
 <style>
   body {
-    background-color: #f0f0f0;
+    background-color: #99ccff;
   }
 </style>
 
 # 👋 Hi, I'm Divya!
 
-Welcome to my data science portfolio. Here you'll find projects I've worked on using Python, Machine Learning, and Data Visualization.
+Welcome to my data science portfolio. Here you'll find projects I've worked on using Python, Machine Learning, and Data Visualization. 
 
 ## 📂 Projects
 
